@@ -1,0 +1,45 @@
+two types of data type 
+1; Primitive : already exist in java
+byte
+short
+char
+boolean
+int
+long
+float
+double
+ 2. Non Primitive
+ String
+ array
+ class
+ object
+ interface
+
+// Java is a typed language
+that means we have to tell that which type of date is being defined ; 
+eg. int a = 1;
+     string name= " bishal";
+
+// Java is a strict language more the strict more secure is the data 
+
+byte type data is quite similar to int // only 256 numbers are stored
+char ch= 'a' //char is used for single  character data type
+boolean variable = true; //or boolean variable = false; // to check condition
+float price= 10.5;
+int a =10; //to store whole value
+long //big integer 
+double  // big float
+short n = 240;
+
+
+size of data types
+ 1 byte= 8 bits [256 numbers can be stored]
+       1 bit = either 0 or 1;
+ short 2 bytes
+ char 2 bytes
+ int 4 bytes [-2Billion to +2 Billion]
+ long 8 bytes
+ float 4 bytes
+ double 8 bytes
+
+

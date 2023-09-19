@@ -1,0 +1,16 @@
+JDK-->inside
+
+JRE- Java runtime environment is a module that is a collection of  virtual machine and library with different tools 
+first 
+      1. source code with .java extension
+second
+    1. copiler -> compiles the source code
+Third 
+      1. Byte code  .class extension
+Forth
+    1. bye code -> Java Virtual machine -> native code     
+
+
+
+source code to bytecode process-> compilation
+byte code to native code -> execution

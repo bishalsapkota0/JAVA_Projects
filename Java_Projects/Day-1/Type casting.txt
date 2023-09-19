@@ -1,0 +1,13 @@
+Type Casting
+   : it is not allowed in java but we somehow manage to allow 
+ eg. float a = 23.5
+ int b = a; //generally this is not allowed in java
+ ? 
+ float a = 23.5
+ int b = (int)a; //now b = 23 and is allowed is
+
+ //converting from float to int is also possible in java as it has some unique numbers for each and every characters 
+ eg. a =97
+ b=98
+ c=99 
+ this is a series of numbers

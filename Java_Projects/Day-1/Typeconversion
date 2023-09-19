@@ -1,0 +1,8 @@
+Type conversion
+
+
+Conversion happens when:
+a. type compatible
+b. destination type > type source
+ eg ; int -> float ok
+    byte->short->int->float->long->double

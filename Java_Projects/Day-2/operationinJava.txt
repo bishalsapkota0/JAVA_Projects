@@ -1,0 +1,61 @@
+Operators in Java
+ Symbols that tells compiler to perform some operations
+  sum = a+b;
+  a, b -> oprands
+  + -> Operator
+
+Types
+
+Arthmetic operators
+Relational operators
+Logical operators
+Bitwise operators
+Assignment operators
+
+Arthmetic Operator
+Binary operators  : which need two oprands
++  eg. a+b 
+-   eg. a-b
+*   eg. a*b
+/   eg. a/b
+%   a%b gives remainder(modulo operators)
+
+Unary Operator : sing oprands is enough
+ ++ and --
+ eg. a++ //increment operators
+      e.g a= a + 1 ==> a++;
+      or  ++and
+
+      --a or a-- //decrement operators
+      eg. a = a-1 ==> a--;
+
+Pre increment //paila update
+ ++a; 
+ 1. value change 
+ 2. value use
+ eg ; a= 10
+  b = ++a 
+     ++a == a+1
+      first a= a+1 then
+      b= a(new)
+hence a = 11;b=11
+first a self change then value assin to b
+
+Relational Operators
+== equals
+!= not equals
+> is greater
+< smaller
+<= small or equals to
+>= greater or equals to
+
+Assignment Operator
+ e.g A=B that is b ko value goes to A 
+  a+=b => a= a+b;
+  a-=b => a= a-b;
+
+Logical Operator
+&& (AND)
+|| (OR)
+! (NOT)
+simple truth table

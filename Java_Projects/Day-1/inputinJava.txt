@@ -1,0 +1,15 @@
+next
+nextLine
+nextInt
+nextByte
+nextFloat
+nextDouble
+nextBoolean
+nextShort
+nextLong
+1. make class to take input - scanner class
+2. import a file -> import java.util.*;
+3. to declare sc scanner 
+4. Scanner sc = new Scanner(System.in);
+5. to use sc 
+        eg. int a = sc.nextInt();
