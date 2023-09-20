@@ -1,0 +1,45 @@
+Conditional statements
+() paranthesis
+{}curly braces
+
+
+if condition
+else condition
+
+else if condition
+   one condtion -- two tasks  -> either true or false
+
+   if(condition)
+   {
+
+   }
+   else if(condition 2) // it is checked when and only when if the upper one is false
+   {
+
+   }
+   else{
+
+   }
+
+
+Ternary Operators
+Switch Operators
+
+ if -else condtion
+  
+     if (condition)
+     {
+
+     }
+     else{
+
+     }
+
+eg. if (int age >= 18)
+{
+    then you can vote
+}
+else{
+    you can't vote
+}
+

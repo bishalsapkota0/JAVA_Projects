@@ -1,0 +1,16 @@
+A
+B 
+C
+
+switch statement
+ switch (variable)
+ {
+    case1:
+
+    case2:
+
+    case3:
+
+    default:
+ }
+ if case value == variable's value then that case is executed
