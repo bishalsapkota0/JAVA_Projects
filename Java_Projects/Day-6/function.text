@@ -1,0 +1,56 @@
+Function
+ : block of code to perform particular task
+   1. is reuseable
+   eg. mute button on remote
+
+   syntax
+
+   returnType name(){
+    //body 
+
+    return statement; //output
+   }
+
+   1. returnType = type of output
+    
+    eg. thumb press input
+      tv off output
+
+FUNCTION syntax with parameters
+
+returnType name(type param1 , type param2)
+{
+    //body
+    return statement;
+}
+
+
+formal parameters / or parameters ==> while defining the Function
+actual parameters /arguments ==> while calling the function
+
+
+calls by value  //pass only copy value and orginal remapin same "P C"
+1. all each and every changes are done inside a function only and only 
+2. if any changes are done inside a function which is called by pass by value a and b will remain unchanged outside the function
+3.just remember main function ko value is never changed during and after pass by value
+why? because in stack's memeory main function will still have orginal a and b , it just gives copy to the calling system
+
+
+
+
+   temp =a ; // a ko value to temp
+   a= b // b ko value is now on a means b is now empty
+   b= a ; //b maa a ko value 
+   now 
+
+
+   some inbuilt functions/methods
+    math 
+      eg. pow sqrt max
+      sc.nextInt()//in build method to take input from the user
+      
+
+
+      scopes
+      1.block scopes ,block==>{-------}
+      2.method scope

@@ -1,0 +1,6 @@
+Function Overloading 
+  - multiple functioins with the same name but different parameters
+  eg .
+  multiply(int a , int b );
+  multiply(long a, long b);
+  multiply(double a , double b);
