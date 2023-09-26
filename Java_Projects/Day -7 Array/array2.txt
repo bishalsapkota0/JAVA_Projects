@@ -1,0 +1,6 @@
+Passing arrays as arguments
+
+Pass by value 
+
+Pass by reference -> this catagory
+   changes in array by small function can be seen from main function

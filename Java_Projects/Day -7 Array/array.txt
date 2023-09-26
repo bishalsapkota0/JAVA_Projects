@@ -1,0 +1,11 @@
+//creating an array
+
+//declearing that array is coming to memory  = making array
+dataType arrrayName[] = new dataType[size];
+
+ int marks[] = new int[50];
+ int numbers = {1,2,3};
+ String fruits[]={"apple","ball","cat"};
+
+1. array is static
+2. continious memory location
